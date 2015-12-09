@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Etch-A-Sketch
 
 See my project in action at http://htmlpreview.github.io/?https://github.com/lisa-lin/etch-a-sketch/blob/master/index.html
 
