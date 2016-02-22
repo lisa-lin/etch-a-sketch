@@ -1,6 +1,6 @@
 # Etch-A-Sketch
 
-[Click here](http://htmlpreview.github.io/?https://github.com/lisa-lin/etch-a-sketch/blob/master/index.html) to see my project in action!
+[See my project in action!](http://htmlpreview.github.io/?https://github.com/lisa-lin/etch-a-sketch/blob/master/index.html)
 
-This project can be found on [The Odin Project](http://theodinproject.com)
+This project can be found on [The Odin Project](http://theodinproject.com).
 
